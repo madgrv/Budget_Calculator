@@ -29,6 +29,7 @@
 
     //I will be using input boxes and will display the results in the DOM instead of using prompt alerts in the browser.
     //This will require more coding, but will improve UX and make the project more suitable for portfolio demonstration.
+    //This would make the code maintainable
 
 
 //create a class constructor 
