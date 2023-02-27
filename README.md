@@ -34,3 +34,9 @@ A simple budget calculator with DOM manipulation and JSON
               they would like to put into savings.
 
             ● Finally, create an alert to display the total amount of disposable income left.
+            
+            
+I will be using input boxes and will display the results in the DOM instead of using prompt alerts in the browser.
+This will require more coding, but will improve UX and make the project more suitable for portfolio demonstration.
+
+
