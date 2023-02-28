@@ -1,6 +1,9 @@
 # Budget_Calculator
 A simple budget calculator with DOM manipulation and JSON
 
+### Instructions:
+_Download folder and run HTML file_
+
 ## Initial brief:
             ● Create a basic HTML file. You are required to create a budgeting website with the following specifications:
 
