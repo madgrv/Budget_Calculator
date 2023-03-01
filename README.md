@@ -36,3 +36,7 @@ A simple budget calculator with DOM manipulation and JSON.
 
 - Used input fields instead of prompt boxes for better user experience.
 - Displayed results in the DOM instead of using alerts.
+
+## Screenshot
+
+![Image description](/Budget_Calculator/Screenshot.png)
