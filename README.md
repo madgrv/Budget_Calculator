@@ -4,7 +4,7 @@ A simple budget calculator with DOM manipulation and JSON.
 
 ## Instructions
 
-1. Clone or download the repository.
+1. Go to https://madgrv.github.io/budget_Calculator/ alternatively clone or download the repository.
 2. Open `index.html` in a web browser.
 3. Enter income and expense details in the provided input fields.
 4. Click the "Add Income" or "Add Expense" button to add new entries.
