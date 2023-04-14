@@ -33,7 +33,8 @@
 
 
 //create a class constructor 
-//(I could have created two indivdual classes but this makes the program expandible in the future while helping me solidify my knowledge of Object constructors and Classes)
+//(I could have created two indivdual classes but this makes the program expandible in the future while helping me solidify my 
+//knowledge of Object constructors and Classes)
 class Budget {
     constructor(type, amount, recurring) {
         this.type = type
